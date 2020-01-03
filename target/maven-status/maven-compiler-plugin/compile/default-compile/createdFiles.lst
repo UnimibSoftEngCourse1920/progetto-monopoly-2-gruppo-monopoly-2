@@ -1,0 +1,10 @@
+controller/game/Game.class
+controller/authentication/Login.class
+databasemanagement/UserLoginException.class
+model/game/MonopoliGame.class
+databasemanagement/UserRegistrationException.class
+databasemanagement/UserDatabaseManagement.class
+controller/authentication/Registration.class
+model/user/User.class
+controller/authentication/Logout.class
+databasemanagement/WrongInputException.class
